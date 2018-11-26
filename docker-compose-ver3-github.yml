@@ -1,7 +1,5 @@
 version: '3.2'
 
-  --name=drone
-
 services:
   drone-server:
     image: drone/drone:1.0.0-rc.1
